@@ -16,7 +16,7 @@ We created two versions:
 - **Chefbot**: the raw version
 - **InteractiveChefBot**: a nicer interface has been added for selecting metrics (two buttons **Use Deafult**, **Custom**)
 
-Note: The dataset have been hidden due to their upload size, if interested contact me!
+Note: The dataset have not been added due to their upload size, if interested contact me!
 
 # Bibliography
 [1] https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data?select=RAW_recipes.csv
